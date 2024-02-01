@@ -3,8 +3,13 @@
   <img src="https://github.com/CtrlAltExecute/genesis/assets/157523173/94b04d67-7b09-4cf9-b30f-020469b3590a" />
 </p>
 
-_Sneak peak Jan 31, 2024_
+<p align="center">
+  Current version: 1.0.0 community
+</p>
 
-https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/0f4adf08-9875-482d-be49-d25f8fa12ad6
+![image](https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/fdca957c-fdb9-466d-ab3a-e46af67c6be8)
 
-The choppy framerate is caused by recording software; the actual aimbot is quite fast.
+
+<p align="center">
+<a href="https://sourceforge.net/projects/zss-genesis/"><img src="https://img.shields.io/badge/download%20now-gray?style=for-the-badge&link=https://sourceforge.net/projects/zss-genesis/" alt="download now" height="50" /></a>
+</p>
