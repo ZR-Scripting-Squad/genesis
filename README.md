@@ -15,5 +15,5 @@
 </p>
 
 
-> [!NOTE]
-> The **community edition** only supports targetting players wearing no skins.
+> [!TIP]
+> **community and pro edition - what's the diff?** The community edition only supports targetting players wearing no skins, whilst the pro edition targets all players.
