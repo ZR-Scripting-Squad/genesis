@@ -21,4 +21,4 @@
 ## Installation
 It's quick n' easy.
 
-After downloading the `.zip` file, extract it and run the `exe` inside.
+After downloading the `.zip` file, extract it and run the `exe` inside. Make sure that if you move the location of the executable, you move the other files with it too.
