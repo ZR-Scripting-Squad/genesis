@@ -17,3 +17,8 @@
 
 > [!TIP]
 > **community and pro edition - what's the diff?** The community edition only supports targetting players wearing no skins, whilst the pro edition targets all players.
+
+## Installation
+It's quick n' easy.
+
+After downloading the `.zip` file, extract it and run the `exe` inside.
