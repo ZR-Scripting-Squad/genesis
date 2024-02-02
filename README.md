@@ -13,3 +13,7 @@
 <p align="center">
 <a href="https://sourceforge.net/projects/zss-genesis/"><img src="https://img.shields.io/badge/download%20now-gray?style=for-the-badge&link=https://sourceforge.net/projects/zss-genesis/" alt="download now" height="50" /></a>
 </p>
+
+
+> [!NOTE]
+> The **community edition** only supports targetting players wearing no skins.
