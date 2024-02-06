@@ -18,9 +18,9 @@
 <hr />
 
 ```
-current version: v1.1.0 (community)
-sha256 checksum (zip): 8ebd8ddd4730a94f7e674bc085192996c6bd403c313196916137c4fc95ac1875
-distro id: wPMrDMhxYmrE
+current version: v1.2.0 (community)
+sha256 checksum (zip): 3c403cdad72c9e630f6bb7aae5e3c373c8e8c2e2f68af7888c980c331cfaf047
+distro id: SeKuRAdopXvg
 ```
 
 ![image](https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/fdca957c-fdb9-466d-ab3a-e46af67c6be8)
