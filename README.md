@@ -16,6 +16,12 @@
 > we recommend using Genesis on the browser, as it will be **completely undetectable**. If used on client, it can theoretically be detected. If you **must** use the client, we recommend using an alt account with a VPN.
 
 <hr />
+<p align="center">
+  <a href="https://sourceforge.net/projects/zss-genesis/">
+  <img src="https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/c8b6dea9-6989-49a1-851a-678ab02f312c" height="80" />
+  </a>
+</p>
+
 
 ```
 current version: v1.2.0 (community)
@@ -24,12 +30,6 @@ distro id: SeKuRAdopXvg
 ```
 
 ![image](https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/fdca957c-fdb9-466d-ab3a-e46af67c6be8)
-
-<p align="center">
-  <a href="https://sourceforge.net/projects/zss-genesis/">
-  <img src="https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/c8b6dea9-6989-49a1-851a-678ab02f312c" height="50" />
-  </a>
-</p>
 
 
 > [!NOTE]
