@@ -25,7 +25,6 @@
 
 ```
 current version: v1.2.0 (community)
-sha256 checksum (zip): 3c403cdad72c9e630f6bb7aae5e3c373c8e8c2e2f68af7888c980c331cfaf047
 distro id: SeKuRAdopXvg
 ```
 
