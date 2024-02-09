@@ -24,8 +24,8 @@
 
 
 ```
-current version: v1.2.0 (community)
-distro id: SeKuRAdopXvg
+current version: v1.3.0 (community)
+distro id: iAWMXnvppTmW
 ```
 
 ![image](https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/fdca957c-fdb9-466d-ab3a-e46af67c6be8)
