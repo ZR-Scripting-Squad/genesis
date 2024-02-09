@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/ctrlaltexecute/genesis/total.svg?style=for-the-badge" height="40"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ZR-Scripting-Squad/genesis/releases">
+  <a href="https://sourceforge.net/projects/zss-genesis">
   <img src="https://github.com/ZR-Scripting-Squad/genesis/assets/157523173/c8b6dea9-6989-49a1-851a-678ab02f312c" height="60" />
   </a>
 </p>
